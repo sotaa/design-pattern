@@ -6,7 +6,10 @@
 // import Main from "./Command/main";
 // import Main from "./Command/Undoable Commands/main";
 // import Main from "./Observer/main";
+// import Main from "./Mediator/main";
+// import Main from "./Mediator/implement meditor using observer pattern/main";
+// import Main from "./ChainOfResponsibility/main";
 
-import Main from "./Mediator/main";
+import Main from "./Visitor/main";
 
 const momento = new Main();
